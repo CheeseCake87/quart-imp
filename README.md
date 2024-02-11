@@ -6,6 +6,8 @@
 [![License](https://img.shields.io/badge/license-LGPL_v2-red.svg)](https://raw.githubusercontent.com/CheeseCake87/quart-imp/master/LICENSE)
 ![black](https://img.shields.io/badge/code%20style-black-000000.svg)
 
+`pip install quart-imp`
+
 ## What is Quart-Imp?
 
 Quart-Imp's main purpose is to help simplify the importing of blueprints, resources, and models.
