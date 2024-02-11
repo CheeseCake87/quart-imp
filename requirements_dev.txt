@@ -1,0 +1,7 @@
+-r requirements.txt
+flit
+ruff
+pytest
+pytest-cov
+mypy
+types-toml
