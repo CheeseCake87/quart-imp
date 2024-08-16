@@ -169,3 +169,5 @@ cython_debug/
 /old_code/
 /Dockerfile
 /src_dif/
+/_archive/
+/app/
