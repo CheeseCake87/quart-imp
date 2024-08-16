@@ -3,7 +3,7 @@
 # Quart-Imp
 
 [![PyPI version](https://img.shields.io/pypi/v/quart-imp)](https://pypi.org/project/quart-imp/)
-[![License](https://img.shields.io/badge/license-LGPL_v2-red.svg)](https://raw.githubusercontent.com/CheeseCake87/quart-imp/master/LICENSE)
+[![License](https://img.shields.io/github/license/CheeseCake87/quart-imp)](https://raw.githubusercontent.com/CheeseCake87/flask-imp/master/LICENSE)
 ![black](https://img.shields.io/badge/code%20style-black-000000.svg)
 
 `pip install quart-imp`
